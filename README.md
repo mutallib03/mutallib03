@@ -9,7 +9,7 @@ I am a first-year student studying Networks and Security. I have a strong intere
 * 🌍  I'm based in Johor Bahru , Malaysia
 * ✉️  You can contact me at [mutallib03@mail.ru](mailto:mutallib03@mail.ru)
 * 🧠  I'm learning C++, and a little bit of HTML and CSS. Geting familiar with basics of cybersecurity.
-* ⚡  I like sleeping a lot.
+* ⚡  I like sleeping .
 
 ### Skills
 

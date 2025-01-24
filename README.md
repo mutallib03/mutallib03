@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mutallib Afsahov
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Mutallib.
 ========================================================================================================================================
 ![Image](https://github.com/user-attachments/assets/cfb3ba28-266a-4c4c-b0b3-1eaf629825be)
 

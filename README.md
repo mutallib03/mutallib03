@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mutallib Afsahov
 ========================================================================================================================================
-![Image](https://github.com/user-attachments/assets/be79324a-30c0-4111-b667-f88da831f94b)
+![Image](https://github.com/user-attachments/assets/cfb3ba28-266a-4c4c-b0b3-1eaf629825be)
 
 Networks and Security student.
 ------------------------------
